@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0645-set-mismatch) |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

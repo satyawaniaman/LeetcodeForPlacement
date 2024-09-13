@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0645-set-mismatch) |
+| [1603-running-sum-of-1d-array](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1677-matrix-diagonal-sum) |
 ## Hash Table
 |  |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0231-power-of-two) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

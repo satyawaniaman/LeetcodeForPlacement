@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0443-string-compression) |
 ## String
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0645-set-mismatch) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0645-set-mismatch) |
@@ -47,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -59,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |

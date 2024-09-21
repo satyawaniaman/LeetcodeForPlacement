@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0268-missing-number) |
 ## Binary Search
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0898-transpose-matrix](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0898-transpose-matrix) |

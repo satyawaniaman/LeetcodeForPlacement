@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0443-string-compression) |
+| [0917-boats-to-save-people](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0917-boats-to-save-people) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0645-set-mismatch) |
 | [0898-transpose-matrix](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0898-transpose-matrix) |
+| [0917-boats-to-save-people](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0917-boats-to-save-people) |
 | [1603-running-sum-of-1d-array](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1677-matrix-diagonal-sum) |
 ## Hash Table
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0645-set-mismatch) |
+| [0917-boats-to-save-people](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0917-boats-to-save-people) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -113,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1603-running-sum-of-1d-array) |
+## Greedy
+|  |
+| ------- |
+| [0917-boats-to-save-people](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0917-boats-to-save-people) |
 <!---LeetCode Topics End-->

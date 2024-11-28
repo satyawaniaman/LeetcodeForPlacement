@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0443-string-compression) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Array
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0645-set-mismatch) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1746-largest-substring-between-two-equal-characters) |
 ## Math
 |  |
 | ------- |

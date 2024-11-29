@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0344-reverse-string) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0443-string-compression) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1746-largest-substring-between-two-equal-characters) |

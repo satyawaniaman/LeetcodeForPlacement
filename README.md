@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -132,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0917-boats-to-save-people](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0917-boats-to-save-people) |
 | [2032-largest-odd-number-in-string](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/2032-largest-odd-number-in-string) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->

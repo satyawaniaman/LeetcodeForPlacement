@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0443-string-compression) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2032-largest-odd-number-in-string](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0268-missing-number) |
+| [2032-largest-odd-number-in-string](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,4 +131,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0917-boats-to-save-people](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0917-boats-to-save-people) |
+| [2032-largest-odd-number-in-string](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->

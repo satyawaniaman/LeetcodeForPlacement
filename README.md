@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

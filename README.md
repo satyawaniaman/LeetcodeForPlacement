@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0053-maximum-subarray) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

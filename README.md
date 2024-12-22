@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

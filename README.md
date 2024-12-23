@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0344-reverse-string) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
+| [0160-intersection-of-two-linked-lists](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0021-merge-two-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->

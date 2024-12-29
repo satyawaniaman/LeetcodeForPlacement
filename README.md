@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0645-set-mismatch) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1746-largest-substring-between-two-equal-characters) |
 ## Math
 |  |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/2299-merge-nodes-in-between-zeros) |

@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0645-set-mismatch) |
 | [0898-transpose-matrix](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0917-boats-to-save-people) |
+| [1582-design-browser-history](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1677-matrix-diagonal-sum) |
 ## Hash Table
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1582-design-browser-history](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1582-design-browser-history) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -201,5 +203,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
+| [1582-design-browser-history](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+## Design
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1582-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->

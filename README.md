@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
+| [0316-remove-duplicate-letters](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0443-string-compression) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0316-remove-duplicate-letters) |
 | [0917-boats-to-save-people](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0917-boats-to-save-people) |
 | [2032-largest-odd-number-in-string](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/2032-largest-odd-number-in-string) |
 ## Memoization
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
+| [0316-remove-duplicate-letters](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0316-remove-duplicate-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1582-design-browser-history](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -223,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1582-design-browser-history) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->

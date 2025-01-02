@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0443-string-compression) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/2032-largest-odd-number-in-string) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1582-design-browser-history](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Design

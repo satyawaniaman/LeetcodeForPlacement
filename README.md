@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0443-string-compression) |
 | [0886-score-of-parentheses](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0886-score-of-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0780-max-chunks-to-make-sorted](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
 | [0917-boats-to-save-people](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0917-boats-to-save-people) |
 | [2032-largest-odd-number-in-string](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/2032-largest-odd-number-in-string) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0780-max-chunks-to-make-sorted](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
 | [0886-score-of-parentheses](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0886-score-of-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -239,5 +242,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0780-max-chunks-to-make-sorted](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
 <!---LeetCode Topics End-->

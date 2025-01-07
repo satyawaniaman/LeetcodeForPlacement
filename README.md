@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 ## Quickselect
 |  |
 | ------- |
@@ -247,4 +249,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0780-max-chunks-to-make-sorted](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

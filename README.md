@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
 | [0898-transpose-matrix](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0917-boats-to-save-people) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1582-design-browser-history](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1677-matrix-diagonal-sum) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0780-max-chunks-to-make-sorted](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
 | [0886-score-of-parentheses](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0886-score-of-parentheses) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1582-design-browser-history](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1582-design-browser-history) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0780-max-chunks-to-make-sorted](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Queue
 |  |
 | ------- |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -275,4 +279,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->

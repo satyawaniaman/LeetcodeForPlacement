@@ -15,17 +15,13 @@
  */
 class Solution {
     int sum=0;
-    void inorder(TreeNode root){
-        if(root==null){
-            return ;
-        }
-       inorder(root.right);
-       sum+=root.val;
-       root.val=sum;
-       inorder(root.left);
-    }
     public TreeNode bstToGst(TreeNode root) {
-        inorder(root);
+        if(root!=null){
+            bstToGst(root.right);
+            root.val+=sum;
+            sum=root.val;
+            bstToGst(root.left);
+        }
         return root;
     }
 }

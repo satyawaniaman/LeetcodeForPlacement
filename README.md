@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0783-search-in-a-binary-search-tree) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0669-trim-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0783-search-in-a-binary-search-tree) |

@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1582-design-browser-history](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1603-running-sum-of-1d-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1677-matrix-diagonal-sum](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1677-matrix-diagonal-sum) |
 ## Hash Table
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0645-set-mismatch) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1746-largest-substring-between-two-equal-characters) |
 ## Math
 |  |
@@ -336,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 <!---LeetCode Topics End-->
